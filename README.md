@@ -6,4 +6,8 @@ Com uma linguagem simples e dinâmica, você vai criar projetos de identificaç�
 - Coleções
 - POO com python
 - Produtividade com Microsoft Copilot
+<<<<<<< HEAD
 - Integração com servilos de IA
+=======
+- Integração com servilos de IA
+>>>>>>> 08eece8f29e9f704ded88f6496aa385d823b2be5
