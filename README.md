@@ -1,4 +1,4 @@
-### Dio Bootcamp Suzano - Python Developer #2
+### Dio Bootcamp - Suzano - Python Developer #2
 
 <img 
     align="center" 
